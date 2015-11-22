@@ -1,0 +1,30 @@
+name: RAW_NIKON_COOLPIX_P7100.NRW
+  standard::icon: image-tiff, image-x-generic
+name: IMG_1517.CR2
+  standard::icon: image-x-canon-cr2, image-x-generic
+name: RAW_CANON_POWERSHOT_SD450_CHDK_V0.9.7-725.DNG
+  standard::icon: image-x-adobe-dng, image-x-generic
+name: RAW_CANON_POWERSHOT_SX110IS_CHDK.CRW
+  standard::icon: image-x-canon-crw, image-x-generic
+name: RAW_FUJI_E550.RAF
+  standard::icon: image-x-fuji-raf, image-x-generic
+name: RAW_KODAK_DC120.KDC
+  standard::icon: image-x-kodak-kdc, image-x-generic
+name: RAW_KODAK_DCSPRO.DCR
+  standard::icon: image-x-kodak-dcr, image-x-generic
+name: RAW_MINOLTA_DIMAGE_7HI.MRW
+  standard::icon: image-x-minolta-mrw, image-x-generic
+name: RAW_NIKON_DS200.NEF
+  standard::icon: image-x-nikon-nef, image-x-generic
+name: RAW_OLYMPUS_E1.ORF
+  standard::icon: image-x-olympus-orf, image-x-generic
+name: RAW_PANASONIC_FZ28.RW2
+  standard::icon: image-x-panasonic-raw2, image-x-generic
+name: RAW_PANASONIC_FZ8.RAW
+  standard::icon: image-x-panasonic-raw, image-x-generic
+name: RAW_PENTAX_K-m.PEF
+  standard::icon: image-x-pentax-pef, image-x-generic
+name: RAW_POLAROID_X530.X3F
+  standard::icon: image-x-sigma-x3f, image-x-generic
+name: sony_a500_01.arw
+  standard::icon: image-x-sony-arw, image-x-generic
