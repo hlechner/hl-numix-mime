@@ -1,0 +1,14 @@
+name: game_boy_adventure.gba
+  standard::icon: application-x-gba-rom, application-x-executable
+name: game_boy.gb
+  standard::icon: application-x-gameboy-rom, application-x-executable
+name: genesis.32x
+  standard::icon: application-x-genesis-rom, application-x-executable
+name: MasterSystem.sms
+  standard::icon: application-x-sms-rom, application-x-executable
+name: NES.nes
+  standard::icon: application-x-nes-rom, application-x-executable
+name: nintendo64.n64
+  standard::icon: application-x-n64-rom, application-x-executable
+name: nintendoDS.nds
+  standard::icon: application-x-nintendo-ds-rom, application-x-executable
