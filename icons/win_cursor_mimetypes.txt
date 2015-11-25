@@ -1,0 +1,4 @@
+name: MS_Pointer.cur
+  standard::icon: image-x-win-bitmap, image-x-generic
+name: MS_Pointer_chinese lucky characters pointer.ani
+  standard::icon: application-x-navi-animation, application-x-generic
