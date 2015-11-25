@@ -1,0 +1,4 @@
+name: sr0
+  standard::icon: inode-blockdevice, inode-x-generic
+name: nvidia0
+  standard::icon: inode-chardevice, inode-x-generic
