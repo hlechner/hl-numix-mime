@@ -1,0 +1,4 @@
+name: 4
+  standard::icon: inode-socket, inode-x-generic
+name: fifo
+  standard::icon: inode-fifo, inode-x-generic
