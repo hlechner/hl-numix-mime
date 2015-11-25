@@ -1,0 +1,4 @@
+name: libboost_regex.so.1.59.0
+  standard::icon: application-x-sharedlib, application-x-generic
+name: libneon.la
+  standard::icon: application-x-shared-library-la, text-x-script
