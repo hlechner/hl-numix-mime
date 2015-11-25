@@ -1,0 +1,4 @@
+name: MS_HELP_Exch2013HybridHelp.chm
+  standard::icon: application-vnd.ms-htmlhelp, x-office-document
+name: MS_HELP_INSTALL.HLP
+  standard::icon: application-winhlp, application-x-generic
