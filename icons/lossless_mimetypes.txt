@@ -1,0 +1,6 @@
+name: 10. Walk On By - Bryan Adams.flac
+  standard::icon: audio-flac, audio-x-generic
+name: luckynight.ape
+  standard::icon: audio-x-ape, audio-x-generic
+name: send.wav
+  standard::icon: audio-x-wav, audio-x-generic
